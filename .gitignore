@@ -1,0 +1,27 @@
+# Binary files
+*.exe
+*.out
+*.app
+*.bin
+
+# Go build artifacts
+/go/bin/
+/go/pkg/
+*.a
+*.o
+
+# Dependency directories (if using vendoring)
+vendor/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# Go module cache (optional)
+go.sum
+
