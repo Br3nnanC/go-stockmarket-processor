@@ -25,3 +25,4 @@ vendor/
 # Go module cache (optional)
 go.sum
 
+.env
